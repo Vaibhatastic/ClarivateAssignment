@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClarivateAssessment", "ClarivateAssessment.csproj", "{144FF524-C54C-4C6C-8BB9-DDACA7D31498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomUserDisplay", "..\RandomUserDisplay\RandomUserDisplay.csproj", "{1D334D34-39AE-4E31-B153-EEF20FC87265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144FF524-C54C-4C6C-8BB9-DDACA7D31498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144FF524-C54C-4C6C-8BB9-DDACA7D31498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144FF524-C54C-4C6C-8BB9-DDACA7D31498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144FF524-C54C-4C6C-8BB9-DDACA7D31498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D334D34-39AE-4E31-B153-EEF20FC87265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D334D34-39AE-4E31-B153-EEF20FC87265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D334D34-39AE-4E31-B153-EEF20FC87265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D334D34-39AE-4E31-B153-EEF20FC87265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA060605-2535-4780-A068-3987CB8F4088}
+	EndGlobalSection
+EndGlobal
